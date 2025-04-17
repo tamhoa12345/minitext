@@ -76,7 +76,7 @@ public class baitap {
                     }
                     break;
                 case 5:
-                    System.out.println("=======danh sach nhan vien=========");
+                    System.out.println();
                     for (NhanVien nhanVien : nhanViens) {
                         System.out.println(nhanVien);
                     }
@@ -87,7 +87,13 @@ public class baitap {
                 default:
                      System.exit(0);
             }
+
+
         }
+
+
+
+
 
 
     }

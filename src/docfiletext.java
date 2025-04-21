@@ -56,7 +56,7 @@
 //
 //            reader.close();
 //        } catch (IOException e) {
-//            System.out.println("❌ Lỗi khi đọc file: " + e.getMessage());
+//            System.out.println(" Lỗi khi đọc file: " + e.getMessage());
 //        }
 //
 //        return danhSach;
